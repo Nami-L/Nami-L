@@ -61,3 +61,4 @@ Desarrollar soluciones robustas de verificación funcional en ASIC y FPGA, colab
 - 📧 enrique.namigtle@inaoe.edu.mx
 - [LinkedIn](https://www.linkedin.com/in/luis-enrique-namigtle-jiménez/)  
 - [ResearchGate]
+📄 [Descargar CV en PDF](Inaoe.pdf)
