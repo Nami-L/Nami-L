@@ -18,6 +18,11 @@ Here are some ideas to get you started:
 
 # 👋 ¡Hola! Soy Luis Enrique Namigtle Jiménez
 
+![Verilog](https://img.shields.io/badge/HDL-Verilog-blue)
+![UVM](https://img.shields.io/badge/Verification-UVM-yellow)
+![FPGA](https://img.shields.io/badge/Platform-FPGA-green)
+![SystemVerilog](https://img.shields.io/badge/Language-SystemVerilog-red)
+
 🎓 Ingeniero en Electrónica | 🧠 Maestría en Ciencias por INAOE | 📍 Doctorando en Verificación de ASIC  
 🔬 Apasionado por el diseño digital, FPGAs, verificación UVM y sistemas para instrumentación científica  
 
