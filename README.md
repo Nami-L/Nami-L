@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ## 🚀 Sobre mí
 
-Soy un ingeniero electrónico con experiencia en diseño de arquitecturas digitales en FPGA y ASIC, desarrollo de PUFs para biometría cancelable, y verificación funcional con SystemVerilog. Actualmente curso el doctorado en el INAOE, trabajando en una metodología de verificación para circuitos integrados de aplicación específica (ASIC), específicamente para el telescopio atmosférico de Cherenkov (MexSIC 2.0).
+Soy un ingeniero electrónico con experiencia en diseño de arquitecturas digitales en FPGA y ASIC, desarrollo de PUFs para biometría cancelable, y verificación funcional con SystemVerilog. Actualmente curso el doctorado en el INAOE, trabajando en una metodología de verificación para circuitos integrados de aplicación específica (ASIC).
 
 ---
 
@@ -42,8 +42,6 @@ Soy un ingeniero electrónico con experiencia en diseño de arquitecturas digita
 
 ## 📚 Proyectos en curso
 
-- 🧪 Verificación del ASIC MexSIC 2.0 con enfoque en instrumentación astronómica
-- ⏱️ Sistema TDC y adquisición de carga para matriz de 1440 canales SiPM
 - 🔐 Investigación en funciones físicamente no clonables (PUFs) para seguridad digital
 
 ---
@@ -58,4 +56,4 @@ Desarrollar soluciones robustas de verificación funcional en ASIC y FPGA, colab
 
 - 📧 luis.namigtle@inaoe.mx  
 - [LinkedIn](https://www.linkedin.com/in/luisenriquenamigtle)  
-- [ResearchGate](https://www.researchgate.net/profile/Luis-Namigtle) *(si aplica)*  
+- [ResearchGate]
