@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Nami-L/Nami-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +22,7 @@ Here are some ideas to get you started:
 ![FPGA](https://img.shields.io/badge/Platform-FPGA-green)
 ![SystemVerilog](https://img.shields.io/badge/Language-SystemVerilog-red)
 
-🎓 Ingeniero en Electrónica | 🧠 Maestría en Ciencias por INAOE | 📍 Doctorando en Verificación de ASIC  
+🎓 Ingeniero en Electrónica | 🧠 Maestría en Ciencias por INAOE | 📍 Realizando mi Doctorando en Verificación de ASIC  
 🔬 Apasionado por el diseño digital, FPGAs, verificación UVM y sistemas para instrumentación científica  
 
 ---
