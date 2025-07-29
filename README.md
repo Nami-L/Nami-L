@@ -14,3 +14,48 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# 👋 ¡Hola! Soy Luis Enrique Namigtle Jiménez
+
+🎓 Ingeniero en Electrónica | 🧠 Maestría en Ciencias por INAOE | 📍 Doctorando en Verificación de ASIC  
+🔬 Apasionado por el diseño digital, FPGAs, verificación UVM y sistemas para instrumentación científica  
+
+---
+
+## 🚀 Sobre mí
+
+Soy un ingeniero electrónico con experiencia en diseño de arquitecturas digitales en FPGA y ASIC, desarrollo de PUFs para biometría cancelable, y verificación funcional con SystemVerilog. Actualmente curso el doctorado en el INAOE, trabajando en una metodología de verificación para circuitos integrados de aplicación específica (ASIC), específicamente para el telescopio atmosférico de Cherenkov (MexSIC 2.0).
+
+---
+
+## 🛠️ Habilidades técnicas
+
+- Verilog / VHDL / SystemVerilog
+- FPGAs (Xilinx, Intel, Renesas ForgeFPGA)
+- Simulación y síntesis (Vivado, Quartus, ModelSim, DSim)
+- Python para scripts y análisis
+- UVM (Universal Verification Methodology)
+- Diseño de convertidores SAR, TDC y moduladores ΣΔ
+
+---
+
+## 📚 Proyectos en curso
+
+- 🧪 Verificación del ASIC MexSIC 2.0 con enfoque en instrumentación astronómica
+- ⏱️ Sistema TDC y adquisición de carga para matriz de 1440 canales SiPM
+- 🔐 Investigación en funciones físicamente no clonables (PUFs) para seguridad digital
+
+---
+
+## 🎯 Objetivo profesional
+
+Desarrollar soluciones robustas de verificación funcional en ASIC y FPGA, colaborando en proyectos científicos e industriales que requieran precisión y confiabilidad a nivel de hardware.
+
+---
+
+## 🌐 Encuéntrame en:
+
+- 📧 luis.namigtle@inaoe.mx  
+- [LinkedIn](https://www.linkedin.com/in/luisenriquenamigtle)  
+- [ResearchGate](https://www.researchgate.net/profile/Luis-Namigtle) *(si aplica)*  
