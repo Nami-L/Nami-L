@@ -15,48 +15,50 @@ Here are some ideas to get you started:
 -->
 
 
-# 👋 ¡Hola! Soy Luis Enrique Namigtle Jiménez
+# 👋 Hi! I'm Luis Enrique Namigtle Jiménez
 
 ![Verilog](https://img.shields.io/badge/HDL-Verilog-blue)
 ![UVM](https://img.shields.io/badge/Verification-UVM-yellow)
 ![FPGA](https://img.shields.io/badge/Platform-FPGA-green)
 ![SystemVerilog](https://img.shields.io/badge/Language-SystemVerilog-red)
 
-🎓 Ingeniero en Electrónica | 🧠 Maestría en Ciencias por INAOE | 📍 Realizando mi Doctorando en Verificación de ASIC  
-🔬 Apasionado por el diseño digital, FPGAs, verificación UVM y sistemas para instrumentación científica  
+🎓 Electronics Engineer | 🧠 M.Sc. in Electronic Sciences (INAOE) | 📍 PhD student in ASIC Verification  
+🔬 Passionate about digital design, FPGAs, UVM-based verification, and scientific instrumentation systems
 
 ---
 
-## 🚀 Sobre mí
+## 🚀 About Me
 
-Soy un ingeniero electrónico con experiencia en diseño de arquitecturas digitales en FPGA y ASIC, desarrollo de PUFs para biometría cancelable, y verificación funcional con SystemVerilog. Actualmente curso el doctorado en el INAOE, trabajando en una metodología de verificación para circuitos integrados de aplicación específica (ASIC).
+I am an electronics engineer with experience in digital architecture design for FPGA and ASIC platforms, development of Physical Unclonable Functions (PUFs) for cancellable biometrics, and functional verification using SystemVerilog and UVM. I am currently pursuing a PhD at INAOE, where my work focuses on developing verification methodologies for Application-Specific Integrated Circuits (ASICs).
 
 ---
 
-## 🛠️ Habilidades técnicas
+## 🛠️ Technical Skills
 
 - Verilog / VHDL / SystemVerilog
-- FPGAs (Xilinx, Intel, Renesas ForgeFPGA)
-- Simulación y síntesis (Vivado, Quartus, ModelSim, DSim)
-- Python para scripts y análisis
+- FPGA platforms (Xilinx, Intel, Renesas ForgeFPGA)
+- Simulation and synthesis tools (Vivado, Quartus, ModelSim, DSim)
+- Python for scripting and data analysis
 - UVM (Universal Verification Methodology)
-- Diseño de convertidores SAR, TDC y moduladores ΣΔ
+- Design of SAR ADCs, TDCs, and ΣΔ modulators
 
 ---
 
-## 📚 Proyectos en curso
+## 📚 Current Projects
 
-- 🔐 Investigación en funciones físicamente no clonables (PUFs) para seguridad digital
-
----
-
-## 🎯 Objetivo profesional
-
-Desarrollar soluciones robustas de verificación funcional en ASIC y FPGA, colaborando en proyectos científicos e industriales que requieran precisión y confiabilidad a nivel de hardware.
+- 🔐 Research on Physical Unclonable Functions (PUFs) for hardware security and cancellable biometrics
+- 🧪 Development of automated UVM testbench templates
+- 🔄 Integration of verification workflows using GitHub and CI-style automation
 
 ---
 
-## 🌐 Encuéntrame en:
+## 🎯 Professional Goal
+
+To develop robust and scalable functional verification solutions for ASIC and FPGA designs, contributing to scientific and industrial projects that demand high reliability, precision, and hardware-level confidence.
+
+---
+
+## 🌐 Find Me On
 
 - 📧 enrique.namigtle@inaoe.edu.mx
 - [LinkedIn](https://www.linkedin.com/in/luis-enrique-namigtle-jiménez/)  
