@@ -63,4 +63,4 @@ To develop robust and scalable functional verification solutions for ASIC and FP
 - 📧 enrique.namigtle@inaoe.edu.mx
 - [LinkedIn](https://www.linkedin.com/in/luis-enrique-namigtle-jiménez/)  
 - [ResearchGate]
-- 📄 [Descargar CV en PDF](Inaoe.pdf)
+- 📄 [CV](CV_Nami.pdf)
